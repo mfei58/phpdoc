@@ -27,6 +27,7 @@
 
 ## 项目实战
 
-- Xhprof
-- Xhgui
-- Swoole-Tracker
+- [Xhprof](https://github.com/mfei58/phpdoc/blob/master/PHP性能分析/Xhprof.md)
+- [Xhgui](https://github.com/mfei58/phpdoc/blob/master/PHP性能分析/Xhgui.md)
+- [Swoole-Tracker](https://github.com/mfei58/phpdoc/blob/master/PHP性能分析/Swoole-Tracker.md)
+

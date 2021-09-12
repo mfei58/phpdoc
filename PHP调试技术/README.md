@@ -126,4 +126,5 @@
 
 ## 项目实战
 
-- [Laravel异常详解]()
+- [Laravel异常详解](https://github.com/mfei58/phpdoc/blob/master/PHP调试技术/Laravel异常详解.md)
+
